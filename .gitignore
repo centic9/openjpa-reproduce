@@ -1,0 +1,15 @@
+.gradle/
+build/
+TestCommonCrawl/
+CommonCrawl/
+derby.log
+CommonCrawl.log
+
+## Directory-based project format:
+.idea/
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+*.iml
